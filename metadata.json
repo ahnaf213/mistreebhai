@@ -1,0 +1,6 @@
+{
+  "name": "Mistry Bhai - Verified Local Home Service Marketplace",
+  "description": "Connecting homeowners with trusted, verified local mistris for electrical, plumbing, appliance repair, painting, and moving services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
